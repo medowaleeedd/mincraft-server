@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 41.104.71.188
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718759057400
+  login: 1718757486446
+money: '0'
+last-account-name: WhiteUp
+lastlocation:
+  world: 9d3c95ca-38b3-49d7-b8e0-c8ce3840e735
+  world-name: spon
+  x: 336.71132958681426
+  y: -60.0
+  z: 429.4142524219402
+  yaw: -116.25350189208984
+  pitch: 30.084123611450195
+logoutlocation:
+  world: 9d3c95ca-38b3-49d7-b8e0-c8ce3840e735
+  world-name: spon
+  x: 333.69999998807907
+  y: -52.00397904820162
+  z: 429.19965124144625
+  yaw: -121.067626953125
+  pitch: 37.771305084228516

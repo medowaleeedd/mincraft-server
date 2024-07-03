@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 105.98.240.143
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719069303092
+  login: 1719069245786
+money: '0'
+last-account-name: matix_3mk
+logoutlocation:
+  world: 9d3c95ca-38b3-49d7-b8e0-c8ce3840e735
+  world-name: spon
+  x: 324.0508639060386
+  y: -60.0
+  z: 431.28573662987117
+  yaw: 95.7491455078125
+  pitch: -86.26838684082031
+lastlocation:
+  world: 9d3c95ca-38b3-49d7-b8e0-c8ce3840e735
+  world-name: spon
+  x: 324.30000001192093
+  y: -60.0
+  z: 421.30000001192093
+  yaw: 150.6361083984375
+  pitch: -65.41801452636719

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 197.207.134.49
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719742575148
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719744096376
+  login: 1719742552460
+money: '0'
+last-account-name: DILAX_GAMER
+logoutlocation:
+  world: 9d3c95ca-38b3-49d7-b8e0-c8ce3840e735
+  world-name: spon
+  x: 367.5369002332023
+  y: -60.0
+  z: 408.2960800930338
+  yaw: -87.60150146484375
+  pitch: 88.64554595947266
+lastlocation:
+  world: 9d3c95ca-38b3-49d7-b8e0-c8ce3840e735
+  world-name: spon
+  x: 351.5145715231468
+  y: -43.71940953801709
+  z: 416.7986369772019
+  yaw: 92.30563354492188
+  pitch: 29.591115951538086

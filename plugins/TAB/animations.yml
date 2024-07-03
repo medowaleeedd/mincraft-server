@@ -1,0 +1,126 @@
+MyAnimation1:
+  change-interval: 100
+  texts:
+    - '&2-&a--------------'
+    - '&a-&2-&a-------------'
+    - '&a--&2-&a------------'
+    - '&a---&2-&a-----------'
+    - '&a----&2-&a----------'
+    - '&a-----&2-&a---------'
+    - '&a------&2-&a--------'
+    - '&a-------&2-&a-------'
+    - '&a--------&2-&a------'
+    - '&a---------&2-&a-----'
+    - '&a----------&2-&a----'
+    - '&a-----------&2-&a---'
+    - '&a------------&2-&a--'
+    - '&a-------------&2-&a-'
+    - '&a--------------&2-'
+    - '&a-------------&2-&a-'
+    - '&a------------&2-&a--'
+    - '&a-----------&2-&a---'
+    - '&a----------&2-&a----'
+    - '&a---------&2-&a-----'
+    - '&a--------&2-&a------'
+    - '&a-------&2-&a-------'
+    - '&a------&2-&a--------'
+    - '&a-----&2-&a---------'
+    - '&a----&2-&a----------'
+    - '&a---&2-&a-----------'
+    - '&a--&2-&a------------'
+    - '&a-&2-&a-------------'
+    - '&2-&a--------------'
+
+ServerName:
+  change-interval: 400
+  texts:
+  - '&aM&2ine ores'
+  - '&2M&ai&2ne ores'
+  - '&2Mi&an&2e ores'
+  - '&2Min&ae&2 ores'
+  - '&2Mine &ao&2res'
+  - '&2Mine o&ar&2es'
+  - '&2Mine or&ae&2s'
+  - '&2Mine ore&as'
+
+
+
+
+
+
+discord:
+  change-interval: 200
+  texts:
+  - '&ediscord.gg/ZunQaVtB'
+  - '&ediscord.gg/ZunQaVtB'
+  - '&ediscord.gg/ZunQaVtB'
+  - '&ediscord.gg/ZunQaVtB'
+  - '&ediscord.gg/ZunQaVtB'
+  - '&ediscord.gg/ZunQaVtB'
+  - '&6d&eiscord.gg/ZunQaVtB'
+  - '&ed&6i&escord.gg/ZunQaVtB'
+  - '&edi&6s&ecord.gg/ZunQaVtB'
+  - '&edis&6c&eord.gg/ZunQaVtB'
+  - '&edisc&6o&erd.gg/ZunQaVtB'
+  - '&edisco&6r&ed.gg/ZunQaVtB'
+  - '&ediscor&6d&e.gg/ZunQaVtB'
+  - '&ediscord&6.&egg/ZunQaVtB'
+  - '&ediscord.&6g&eg/ZunQaVtB'
+  - '&ediscord.g&6g&e/ZunQaVtB'
+  - '&ediscord.gg&6/&eZunQaVtB'
+  - '&ediscord.gg/&6Z&eunQaVtB'
+  - '&ediscord.gg/Z&6u&enQaVtB'
+  - '&ediscord.gg/Zu&6n&eQaVtB'
+  - '&ediscord.gg/Zun&6Q&eaVtB'
+  - '&ediscord.gg/ZunQ&6a&eVtB'
+  - '&ediscord.gg/ZunQa&6V&etB'
+  - '&ediscord.gg/ZunQaV&6t&eB'
+  - '&ediscord.gg/Zunt&6B&e'
+  - '&ediscord.gg/ZunQaVtB'
+  - '&ediscord.gg/ZunQaVtB'
+  - '&ediscord.gg/ZunQaVtB'
+  - '&ediscord.gg/ZunQaVtB'
+  - '&ediscord.gg/ZunQaVtB'
+  - '&ediscord.gg/ZunQaVtB'
+vote:
+  change-interval: 1000
+  texts:
+  - '&avote.domain.com'
+  - '&a&nvote.domain.com'
+  - '&5vote.domain.com'
+  - '&5&nvote.domain.com'
+Welcome:
+  change-interval: 400
+  texts:
+  - '&7&lW'
+  - '&7&lW'
+  - '&7&lWe'
+  - '&7&lWel'
+  - '&7&lWelc'
+  - '&7&lWelco'
+  - '&7&lWelcom'
+  - '&7&lWelcome'
+  - '&7&lWelcome'
+  - '&7&lWelcome'
+  - '&7&lWelcome'
+  - '&7&lWelcom'
+  - '&7&lWelco'
+  - '&7&lWelc'
+  - '&7&lWel'
+  - '&7&lWe'
+  - '&7&lW'
+  - '&7&lW'
+  - '&7&l'
+
+
+time:
+  change-interval: 3000
+  texts:
+    - '&7Time &b%time%'
+barcolors:
+  change-interval: 1000
+  texts:
+    - RED
+    - BLUE
+    - GREEN
+    - YELLOW

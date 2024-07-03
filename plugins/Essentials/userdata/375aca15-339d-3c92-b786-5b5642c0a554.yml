@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 197.52.60.239
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719133159291
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719224643411
+  login: 1719224477863
+money: '0'
+last-account-name: Yaboisadman
+logoutlocation:
+  world: fb447c2c-87ce-4039-9892-20a37823df1e
+  world-name: world
+  x: -488.9581845109545
+  y: 82.6338176441813
+  z: 9.494790382110128
+  yaw: -14.2427978515625
+  pitch: 27.0535945892334
+lastlocation:
+  world: fb447c2c-87ce-4039-9892-20a37823df1e
+  world-name: world
+  x: -440.7709165359972
+  y: 70.0
+  z: 23.523342130637182
+  yaw: -168.5201873779297
+  pitch: 24.050796508789062

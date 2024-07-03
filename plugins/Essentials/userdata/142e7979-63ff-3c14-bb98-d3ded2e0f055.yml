@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1719646271592
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719997537399
+  login: 1719996133979
+money: '2206.08'
+last-account-name: realix_yt
+logoutlocation:
+  world: 9d3c95ca-38b3-49d7-b8e0-c8ce3840e735
+  world-name: spon
+  x: 327.36882256812163
+  y: -43.76274825812552
+  z: 435.6324369772038
+  yaw: 96.163818359375
+  pitch: 71.13452911376953
+lastlocation:
+  world: 421253f0-4fae-4680-9062-df870dda2889
+  world-name: world
+  x: -469.9169748073173
+  y: 60.69604065630953
+  z: 41.40627205924768
+  yaw: -68.31192016601562
+  pitch: 26.20240020751953

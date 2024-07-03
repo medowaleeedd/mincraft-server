@@ -1,0 +1,22 @@
+#  ExampleDestination:
+#    world: it will be the world name
+#    pos:
+#      X:
+#      Y:
+
+spon:
+  world: spon
+  pos:
+    X: 336.61921565391447
+    Y: -60.0
+    Z: 429.61977595820593
+    pitch: -4.427436
+    yaw: 86.74301
+sr:
+  world: world
+  pos:
+    X: -445.4601416358553
+    Y: 73.0
+    Z: 15.575189323477398
+    pitch: 0.1500396
+    yaw: 97.61667

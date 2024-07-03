@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 105.102.182.53
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719172734884
+  login: 1719172614708
+money: '0'
+last-account-name: taymlounis
+logoutlocation:
+  world: fb447c2c-87ce-4039-9892-20a37823df1e
+  world-name: world
+  x: -440.440492638911
+  y: 72.0
+  z: 23.07214455035172
+  yaw: -144.61558532714844
+  pitch: 14.892556190490723
