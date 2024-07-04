@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1719997537399
-  login: 1719996133979
+  logout: 1720008739810
+  login: 1720008031218
 money: '2206.08'
 last-account-name: realix_yt
 logoutlocation:
   world: 9d3c95ca-38b3-49d7-b8e0-c8ce3840e735
   world-name: spon
-  x: 327.36882256812163
-  y: -43.76274825812552
-  z: 435.6324369772038
-  yaw: 96.163818359375
-  pitch: 71.13452911376953
+  x: 319.30000001192093
+  y: -50.0
+  z: 461.8434911436683
+  yaw: 91.08704376220703
+  pitch: 53.999942779541016
 lastlocation:
   world: 421253f0-4fae-4680-9062-df870dda2889
   world-name: world
